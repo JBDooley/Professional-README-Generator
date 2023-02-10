@@ -1,36 +1,50 @@
 
-  # this
+  # aaa
+
+  ![license badge](https://img.shields.io/badge/license-Apache-blue)
 
   ## Description
 
-  heres how it works
+  aaa
+
+
 
   ## Installation
 
-  how to install
+  aaa
+
+
 
   ## Usage
 
-  how to use
+  aaa
+
+
 
   ## Contributing
 
-  how to contribute
+  aaa
+
+
 
   ## Tests
 
-  how to test
+  aaa
+
+
 
   ## License
 
-  C
+  Apache 
+
+
 
   ## GitHub
 
-  user
+  https://github.com/JBDooley
 
   ## E-mail
 
-  me@emial.com
+  mailto:brycedooley7@gmail.com
 
   
