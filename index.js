@@ -37,7 +37,7 @@ const questions = [
     },
     {
         name: "licenses",
-        list: "list",
+        type: "list",
         message: "Which license is the application using?",
         choices: ["A", "B", "C", "D"]
     },
