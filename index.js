@@ -36,11 +36,7 @@ const questions = [
         message: "How can the application be tested?"
     },
     {
-<<<<<<< HEAD
-        name: "license",
-=======
         name: "licenses",
->>>>>>> 6453580f73822e65c83007eed3ad86b904c527dd
         type: "list",
         message: "Which license is the application using?",
         choices: ["A", "B", "C", "D"]
