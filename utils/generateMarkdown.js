@@ -37,7 +37,7 @@ function generateMarkdown(data) {
 
   ## License
 
-  ${data.license}
+  ${data.licenses}
 
   ## GitHub
 
